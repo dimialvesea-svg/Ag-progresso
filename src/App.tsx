@@ -95,7 +95,7 @@ export default function App() {
               >
                 <div className="inline-flex items-center gap-2 bg-blue-50 text-brand-primary px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-6">
                   <ShieldCheck className="w-4 h-4" />
-                  <span>Excelência em Vitória e Viana</span>
+                  <span>Excelência em VITÓRIA</span>
                 </div>
                 <h1 className="text-5xl md:text-7xl font-bold leading-[1.1] mb-8">
                   Sua Impressora em <span className="text-brand-secondary">Boas Mãos</span>
@@ -280,7 +280,7 @@ export default function App() {
               </div>
               {/* Floating Badge */}
               <div className="absolute -bottom-6 -left-6 bg-white text-brand-primary p-6 rounded-2xl shadow-2xl">
-                 <p className="text-2xl font-black font-display leading-none mb-1 text-brand-secondary tracking-tighter">VIANA & REGIÃO</p>
+                 <p className="text-2xl font-black font-display leading-none mb-1 text-brand-secondary tracking-tighter">VITÓRIA & REGIÃO</p>
                  <p className="text-[10px] font-bold uppercase tracking-widest opacity-60">Atendemos as proximidades</p>
               </div>
             </div>
